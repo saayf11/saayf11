@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Saif
 
-<!--
-**saayf11/saayf11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data science master's student at Macquarie University in Sydney, and I point machine learning at space and astronomy data.
 
-Here are some ideas to get you started:
+- I replicated Google Brain's **AstroNet** exoplanet classifier on NASA Kepler data (AUC 0.990, against the paper's 0.988)
+- I like time series, satellite imagery, and statistics that hold up
+- I'm open to data science roles in space, Earth observation and research, full-time from December 2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [AstroNet replication](https://github.com/saayf11/astronet-exoplanets) | Finds exoplanets in Kepler light curves. Replicated the paper, then tested on two new datasets | Python, TensorFlow, Docker |
+| [Data science projects](https://github.com/saayf11/data-science-projects) | Coursework and personal ML projects: statistics, churn, sales forecasting, network analysis | Python, R, scikit-learn |
+
+## Tools
+
+Python · R · SQL · TensorFlow · tidymodels · Docker · Git · Quarto · Tableau
+
+📫 saayf1814@gmail.com · [LinkedIn](https://linkedin.com/in/saayf1814)
